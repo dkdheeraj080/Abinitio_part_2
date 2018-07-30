@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Abinitio_part_2</string>
+    <string name="password">Password</string>
+    <string name="Title">Departments</string>
+    <string-array name="Departments">
+        <item name="Automobile"></item>
+        <item name="Civil"></item>
+        <item name="Computer"></item>
+        <item name="EnTC"></item>
+        <item name="Instrumentation"></item>
+        <item name="Mechnical"></item>
+    </string-array>
+
+    <string-array name="Automobile">
+        <item name="Automobile"></item>
+        <item name="Automobile"></item>
+        <item name="Automobile"></item>
+        <item name="Automobile"></item>
+    </string-array>
+
+    <string-array name="Civil">
+        <item name="Automobile"></item>
+        <item name="Automobile"></item>
+        <item name="Automobile"></item>
+        <item name="Automobile"></item>
+    </string-array>
+
+    <string-array name="Computer">
+        <item name="Automobile"></item>
+        <item name="Automobile"></item>
+        <item name="Automobile"></item>
+        <item name="Automobile"></item>
+    </string-array>
+
+    <string-array name="EnTC">
+        <item name="Automobile"></item>
+        <item name="Automobile"></item>
+        <item name="Automobile"></item>
+        <item name="Automobile"></item>
+    </string-array>
+
+    <string-array name="Instrumentation">
+        <item name="Automobile"></item>
+        <item name="Automobile"></item>
+        <item name="Automobile"></item>
+        <item name="Automobile"></item>
+    </string-array>
+
+    <string-array name="Mechanical">
+        <item name="Automobile"></item>
+        <item name="Automobile"></item>
+        <item name="Automobile"></item>
+        <item name="Automobile"></item>
+    </string-array>
+
+</resources>
+
